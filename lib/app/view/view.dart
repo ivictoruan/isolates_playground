@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
-import 'controller.dart';
-import 'person_model.dart';
+import '../controller.dart';
+import '../person_model.dart';
 
 class MainApp extends StatefulWidget {
   const MainApp({super.key});
